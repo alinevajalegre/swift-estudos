@@ -13,7 +13,7 @@ Feel free to use anything written here :)
 
 Códigos e guias do meu estudo de Swift.
 
-## Fontes utilizadas para estudos:
+## Fontes utilizadas para os estudos:
 * 100 days of Swift         https://www.hackingwithswift.com/100
 * 100 days of SwiftUi       https://www.hackingwithswift.com/100/swiftui
 
